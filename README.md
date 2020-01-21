@@ -1,4 +1,4 @@
-# Full Stack React Express Application
+# React Express Application
  
  
 # Introduction
