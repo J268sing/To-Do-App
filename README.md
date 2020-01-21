@@ -1,7 +1,7 @@
 # Full Stack React Express Application
  
  
-#Introduction
+# Introduction
 This is a task managing app where you can categorize your tasks into 3: To-Do, Done, Doing.
 This app was made while doing the course on Pluralsight Building a Full Stack Application with Express and React. 
 
